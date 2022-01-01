@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/about.png</file>
+        <file>images/back.png</file>
+        <file>images/box.png</file>
+        <file>images/login.png</file>
+        <file>images/main.png</file>
+        <file>images/welcome.png</file>
+        <file>passwords/c3958</file>
+        <file>passwords/feffw</file>
+        <file>passwords/Idesga</file>
+        <file>passwords/key.key</file>
+        <file>passwords/Suckit</file>
+        <file>passwords/Tinder</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/about.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/back.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/box.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/btn.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/delete.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/login.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/main.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/images/welcome.png</file>
+        <file>../Desktop/fleonPass/GUI/passwords/c3958</file>
+        <file>../Desktop/fleonPass/GUI/passwords/Facebook</file>
+        <file>../Desktop/fleonPass/GUI/passwords/key.key</file>
+        <file>../Desktop/fleonPass/GUI/passwords/Suckit</file>
+    </qresource>
+</RCC>
