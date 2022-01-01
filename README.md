@@ -14,7 +14,7 @@ fleonPass provides you with efficiency and speed of given tasks!
 
 
 <h1>How to build it? </h1>
-<br>Open your Qt Creator, set resource.qmc to have folder passwords and images</br>
+<br>Open your Qt Creator, set resource.qmc , add folder called passwords/ and images/</br>
 <br>Click Deploy , and there you go!</br>
 
 <h1>UI/UX (Home Screen)</h1>
