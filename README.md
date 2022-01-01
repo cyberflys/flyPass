@@ -2,6 +2,7 @@
 fleonPass is a protected password manager powered by fleonSHES algorithm.
 
 fleonPass is based on fleonSHES algorithm made by me.
+fleonPass provides you with efficiency and speed of given tasks!
 
 <h1>Features of fleonPass</h1>
 <br>● Fully encrypted password locker</br>
@@ -16,5 +17,8 @@ fleonPass is based on fleonSHES algorithm made by me.
 
 # fleonPass<img width="997" alt="Screenshot 2022-01-01 at 21 23 53" src="https://user-images.githubusercontent.com/62068607/147859617-a8893672-f311-4029-8deb-ea5258a5cd82.png">
 
+<h1>How to build it? </h1>
+<br>Open your Qt Creator, set resource.qmc to have folder passwords and images</br>
+<br>Click Deploy , and there you go!</br>
 
 
