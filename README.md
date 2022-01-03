@@ -3,6 +3,7 @@ fleonPass is a protected password manager powered by fleonSHES algorithm.
 
 fleonPass is based on fleonSHES algorithm made by me.
 fleonPass provides you with efficiency and speed of given tasks!
+Everybody wants to protect privacy, and so do we.
 
 <h1>Features of fleonPass</h1>
 <br>● Fully encrypted password locker</br>
