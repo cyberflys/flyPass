@@ -1,11 +1,11 @@
-<h1>About FleonPass</h1>
-fleonPass is a protected password manager powered by fleonSHES algorithm.
+<h1>About flyPass</h1>
+flyPass is a protected password manager powered by SHES algorithm.
 
-fleonPass is based on fleonSHES algorithm made by me.
-fleonPass provides you with efficiency and speed of given tasks!
+flyPass is based on flyPass algorithm made by me.
+flyPass provides you with efficiency and speed of given tasks!
 Everybody wants to protect privacy, and so do we.
 
-<h1>Features of fleonPass</h1>
+<h1>Features of flyPass</h1>
 <br>● Fully encrypted password locker</br>
 <br>● Newest SHES algorithm, never seen before (cause i made it :) )</br>
 <br>● Passwords of length of 15 (key aswell) </br>
