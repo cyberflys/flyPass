@@ -18,8 +18,10 @@ Everybody wants to protect privacy, and so do we.
 <br>- Open your Qt Creator, set resource.qmc , add folder called passwords/ and images/</br>
 <br>- Click Deploy , and there you go!</br>
 
-<h1>UI/UX (Home Screen)</h1>
-<img width="997" alt="Screenshot 2022-01-01 at 21 23 53" src="https://user-images.githubusercontent.com/62068607/147859617-a8893672-f311-4029-8deb-ea5258a5cd82.png">
+<h1>UI/UX(Home Screen)</h1>
+  <img width="998" alt="Screenshot 2022-01-06 at 02 08 49" src="https://user-images.githubusercontent.com/62068607/148312201-aa4eee9f-3620-458b-b5a1-cf34ad5a2d4a.png">
+ 
+
 
 
 
